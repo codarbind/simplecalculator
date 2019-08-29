@@ -1,0 +1,62 @@
+ td {
+	text-align: center;
+	border-color: solid black;
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 40px;
+	height: 30px;
+	background-color: #468499 ;
+	color: #f0fff0 ;
+	font-size: 20px;
+}
+
+#scientific{
+
+	width: 184px;
+}
+
+#div2 {
+	background-color: white ;
+	width: 30em;
+	height: 25em;
+	align-items: center;
+	border-radius: 15em;
+	padding-left: 5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-left: 30%;
+	margin-top: 8%;
+	color: white;
+	opacity: .9;
+
+}
+
+
+table {
+
+	margin-left: 20%;
+}
+
+ #header2{
+	padding-left: .5em;
+	color: blue;
+	display: none;
+}
+
+#row8{
+
+	margin-bottom: .5%;
+}
+
+body {
+	background-image: url(calculatorImage.jpg);
+
+}
+
+#header1{
+	color: white;
+	font-size: 3em;
+	background-color: blue;
+	width: 6em;
+	text-align: center;
+}
